@@ -1,0 +1,115 @@
+{
+    "train_runs": [
+        {
+            "train_run_sections": [
+                {
+                    "exit_time": "08:20:53",
+                    "entry_time": "08:20:00",
+                    "section_requirement": [
+                        "A"
+                    ],
+                    "route_section_id": "111#1",
+                    "sequence_number": 1,
+                    "route": 111,
+                    "route_path": 3
+                },
+                {
+                    "exit_time": "08:21:25",
+                    "entry_time": "08:20:53",
+                    "section_requirement": [
+                        "C"
+                    ],
+                    "route_section_id": "111#14",
+                    "sequence_number": 14,
+                    "route": 111,
+                    "route_path": 3
+                }
+            ],
+            "service_intention_id": 111
+        },
+        {
+            "train_run_sections": [
+                {
+                    "exit_time": "08:20:53",
+                    "entry_time": "08:20:00",
+                    "section_requirement": [
+                        "A"
+                    ],
+                    "route_section_id": "111#1",
+                    "sequence_number": 1,
+                    "route": 111,
+                    "route_path": 3
+                },
+                {
+                    "exit_time": "08:21:25",
+                    "entry_time": "08:20:53",
+                    "section_requirement": [
+                        "C"
+                    ],
+                    "route_section_id": "111#14",
+                    "sequence_number": 14,
+                    "route": 111,
+                    "route_path": 3
+                }
+            ],
+            "service_intention_id": 111
+        },
+        {
+            "train_run_sections": [
+                {
+                    "exit_time": "07:50:53",
+                    "entry_time": "07:50:00",
+                    "section_requirement": [
+                        "A"
+                    ],
+                    "route_section_id": "113#1",
+                    "sequence_number": 1,
+                    "route": 113,
+                    "route_path": 3
+                },
+                {
+                    "exit_time": "07:51:25",
+                    "entry_time": "07:50:53",
+                    "section_requirement": [
+                        "C"
+                    ],
+                    "route_section_id": "113#14",
+                    "sequence_number": 14,
+                    "route": 113,
+                    "route_path": 3
+                }
+            ],
+            "service_intention_id": 113
+        },
+        {
+            "train_run_sections": [
+                {
+                    "exit_time": "07:50:53",
+                    "entry_time": "07:50:00",
+                    "section_requirement": [
+                        "A"
+                    ],
+                    "route_section_id": "113#1",
+                    "sequence_number": 1,
+                    "route": 113,
+                    "route_path": 3
+                },
+                {
+                    "exit_time": "07:51:25",
+                    "entry_time": "07:50:53",
+                    "section_requirement": [
+                        "C"
+                    ],
+                    "route_section_id": "113#14",
+                    "sequence_number": 14,
+                    "route": 113,
+                    "route_path": 3
+                }
+            ],
+            "service_intention_id": 113
+        }
+    ],
+    "hash": 42,
+    "problem_instance_hash": -1254734547,
+    "problem_instance_label": "SBB_challenge_sample_scenario_with_routing_alternatives"
+}
