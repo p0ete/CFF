@@ -3,26 +3,58 @@
         {
             "train_run_sections": [
                 {
-                    "exit_time": "08:20:53",
                     "entry_time": "08:20:00",
-                    "section_requirement": [
-                        "A"
-                    ],
-                    "route_section_id": "111#1",
+                    "exit_time": "08:20:53",
                     "sequence_number": 1,
-                    "route": 111,
-                    "route_path": 3
+                    "section_requirement": "A",
+                    "route_path": 1,
+                    "route_section_id": "111#1",
+                    "route": 111
                 },
                 {
-                    "exit_time": "08:21:25",
                     "entry_time": "08:20:53",
-                    "section_requirement": [
-                        "C"
-                    ],
-                    "route_section_id": "111#14",
-                    "sequence_number": 14,
-                    "route": 111,
-                    "route_path": 3
+                    "exit_time": "08:21:25",
+                    "sequence_number": 2,
+                    "section_requirement": null,
+                    "route_path": 1,
+                    "route_section_id": "111#4",
+                    "route": 111
+                },
+                {
+                    "entry_time": "08:21:25",
+                    "exit_time": "08:30:00",
+                    "sequence_number": 3,
+                    "section_requirement": "B",
+                    "route_path": 1,
+                    "route_section_id": "111#5",
+                    "route": 111
+                },
+                {
+                    "entry_time": "08:30:00",
+                    "exit_time": "08:30:32",
+                    "sequence_number": 4,
+                    "section_requirement": null,
+                    "route_path": 4,
+                    "route_section_id": "111#7",
+                    "route": 111
+                },
+                {
+                    "entry_time": "08:30:32",
+                    "exit_time": "08:31:04",
+                    "sequence_number": 5,
+                    "section_requirement": null,
+                    "route_path": 4,
+                    "route_section_id": "111#8",
+                    "route": 111
+                },
+                {
+                    "entry_time": "08:31:04",
+                    "exit_time": "08:31:36",
+                    "sequence_number": 6,
+                    "section_requirement": "C",
+                    "route_path": 4,
+                    "route_section_id": "111#9",
+                    "route": 111
                 }
             ],
             "service_intention_id": 111
@@ -30,86 +62,73 @@
         {
             "train_run_sections": [
                 {
-                    "exit_time": "08:20:53",
-                    "entry_time": "08:20:00",
-                    "section_requirement": [
-                        "A"
-                    ],
-                    "route_section_id": "111#1",
-                    "sequence_number": 1,
-                    "route": 111,
-                    "route_path": 3
-                },
-                {
-                    "exit_time": "08:21:25",
-                    "entry_time": "08:20:53",
-                    "section_requirement": [
-                        "C"
-                    ],
-                    "route_section_id": "111#14",
-                    "sequence_number": 14,
-                    "route": 111,
-                    "route_path": 3
-                }
-            ],
-            "service_intention_id": 111
-        },
-        {
-            "train_run_sections": [
-                {
-                    "exit_time": "07:50:53",
                     "entry_time": "07:50:00",
-                    "section_requirement": [
-                        "A"
-                    ],
-                    "route_section_id": "113#1",
-                    "sequence_number": 1,
-                    "route": 113,
-                    "route_path": 3
-                },
-                {
-                    "exit_time": "07:51:25",
-                    "entry_time": "07:50:53",
-                    "section_requirement": [
-                        "C"
-                    ],
-                    "route_section_id": "113#14",
-                    "sequence_number": 14,
-                    "route": 113,
-                    "route_path": 3
-                }
-            ],
-            "service_intention_id": 113
-        },
-        {
-            "train_run_sections": [
-                {
                     "exit_time": "07:50:53",
-                    "entry_time": "07:50:00",
-                    "section_requirement": [
-                        "A"
-                    ],
-                    "route_section_id": "113#1",
                     "sequence_number": 1,
-                    "route": 113,
-                    "route_path": 3
+                    "section_requirement": "A",
+                    "route_path": 1,
+                    "route_section_id": "113#1",
+                    "route": 113
                 },
                 {
-                    "exit_time": "07:51:25",
                     "entry_time": "07:50:53",
-                    "section_requirement": [
-                        "C"
-                    ],
+                    "exit_time": "07:51:25",
+                    "sequence_number": 2,
+                    "section_requirement": null,
+                    "route_path": 1,
+                    "route_section_id": "113#4",
+                    "route": 113
+                },
+                {
+                    "entry_time": "07:51:25",
+                    "exit_time": "07:51:57",
+                    "sequence_number": 3,
+                    "section_requirement": null,
+                    "route_path": 1,
+                    "route_section_id": "113#5",
+                    "route": 113
+                },
+                {
+                    "entry_time": "07:51:57",
+                    "exit_time": "07:52:29",
+                    "sequence_number": 4,
+                    "section_requirement": null,
+                    "route_path": 1,
+                    "route_section_id": "113#6",
+                    "route": 113
+                },
+                {
+                    "entry_time": "07:52:29",
+                    "exit_time": "07:53:01",
+                    "sequence_number": 5,
+                    "section_requirement": null,
+                    "route_path": 1,
+                    "route_section_id": "113#10",
+                    "route": 113
+                },
+                {
+                    "entry_time": "07:53:01",
+                    "exit_time": "07:53:33",
+                    "sequence_number": 6,
+                    "section_requirement": null,
+                    "route_path": 1,
+                    "route_section_id": "113#13",
+                    "route": 113
+                },
+                {
+                    "entry_time": "07:53:33",
+                    "exit_time": "07:54:05",
+                    "sequence_number": 7,
+                    "section_requirement": "C",
+                    "route_path": 1,
                     "route_section_id": "113#14",
-                    "sequence_number": 14,
-                    "route": 113,
-                    "route_path": 3
+                    "route": 113
                 }
             ],
             "service_intention_id": 113
         }
     ],
-    "hash": 42,
+    "problem_instance_label": "SBB_challenge_sample_scenario_with_routing_alternatives",
     "problem_instance_hash": -1254734547,
-    "problem_instance_label": "SBB_challenge_sample_scenario_with_routing_alternatives"
+    "hash": -516528637
 }
