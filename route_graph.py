@@ -80,7 +80,7 @@ def save_graph(route_graphs):
 # scratch######################################
 
 if __name__ == "__main__":
-    scenario = "../sample_files/sample_scenario.json"
+    scenario = "./problem_instances/01_dummy.json"
     with open(scenario) as fp:
         scenario = json.load(fp)
     route_graphs = generate_route_graphs(scenario)

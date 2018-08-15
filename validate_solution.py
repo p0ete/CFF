@@ -11,16 +11,14 @@ SOLUTION_VALIDATION_ENDPOINT = "https://fluxer.app.sbb.ch/backend/crowdai-valida
 
 currentdir = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))
 
-scenario = os.path.join(currentdir,'sample_files',"sample_scenario.json")
-solution = os.path.join(currentdir,"my_solution.json")
+FILE_NAME = "01_dummy.json"
+scenario = os.path.join(currentdir,'problem_instances',FILE_NAME)
+solution = os.path.join(currentdir,FILE_NAME)
 
-def do_loesung_validation(scenario, solution):
+def do_loesung_validation(scenario_content, solution_content):
 
     # upload scenario first (may not be available in the store)
-    # read in scenario_content
-    scenario_content = ""
-    with open(scenario) as fp:
-        scenario_content = json.load(fp)
+    
 
     scenario_content = translate.translate(scenario_content, translate.translate_to_ger)
 
@@ -30,10 +28,7 @@ def do_loesung_validation(scenario, solution):
 
 
     # now we can validate
-    solution_content = ""
-    with open(solution) as fp:
-        solution_content = json.load(fp)
-
+    
     solution_content = translate.translate(solution_content, translate.translate_to_ger)
     solution_file = {"loesung": StringIO(json.dumps(solution_content))}
     validation_response = requests.post(SOLUTION_VALIDATION_ENDPOINT, files=solution_file, auth=AUTH)
@@ -45,8 +40,54 @@ def do_loesung_validation(scenario, solution):
     return validation_result
 
 
+def validate_main(scenario_content, solution_content):
+    validation_result = do_loesung_validation(scenario_content, solution_content)
+    # print(validation_result)
+
+    warnings = [x for x in validation_result["business_rules_violations"] if x["severity"] == "warning"]
+    errors = [x for x in validation_result["business_rules_violations"] if x["severity"] == "error"]
+
+    print()
+    print(f"There are {len(warnings)} warnings and {len(errors)} errors" + "\n")
+
+    if len(errors) > 0:
+        print(f"the solution has {len(errors)} errors. It will not be accepted as a feasible solution. "
+            f"See the error messages for details.")
+    
+        print()
+        print("Errors:")
+        for x in errors:
+            print("- "+x["message"])
+            # print(x["message_original"])
+        print()
+        print("Warnings:")
+        for x in warnings:
+            print("- "+x["message"])
+        
+
+    elif len(warnings) > 0:
+        print()
+        print(f"the solution has {len(warnings)} warnings. It will be accepted as a feasible solution. ")
+        if validation_result['objective_value'] > 0.0:
+            print(f"However, it will incur {validation_result['objective_value']} penalty points in the grader.")
+        
+        print()
+        print("Warnings:")
+        for x in warnings:
+            print("- "+x["message"])
+
+
 if __name__ == "__main__":
-    validation_result = do_loesung_validation(scenario, solution)
+    # read in scenario_content
+    scenario_content = ""
+    with open(scenario) as fp:
+        scenario_content = json.load(fp)
+
+    solution_content = ""
+    with open(solution) as fp:
+        solution_content = json.load(fp)
+
+    validation_result = do_loesung_validation(scenario_content, solution_content)
     # print(validation_result)
 
     warnings = [x for x in validation_result["business_rules_violations"] if x["severity"] == "warning"]
