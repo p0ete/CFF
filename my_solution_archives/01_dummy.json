@@ -1,0 +1,2619 @@
+{
+    "problem_instance_label": "01_dummy",
+    "problem_instance_hash": 759370455,
+    "hash": -516528637,
+    "train_runs": [
+        {
+            "service_intention_id": 18823,
+            "train_run_sections": [
+                {
+                    "entry_time": "06:35:00",
+                    "exit_time": "06:37:00",
+                    "route": 18823,
+                    "route_section_id": "18823#1",
+                    "sequence_number": 1,
+                    "route_path": "standard",
+                    "section_requirement": "ZLOE_Halt"
+                },
+                {
+                    "entry_time": "06:37:00",
+                    "exit_time": "06:37:32",
+                    "route": 18823,
+                    "route_section_id": "18823#5",
+                    "sequence_number": 2,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:37:32",
+                    "exit_time": "06:37:40",
+                    "route": 18823,
+                    "route_section_id": "18823#10",
+                    "sequence_number": 3,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:37:40",
+                    "exit_time": "06:37:54",
+                    "route": 18823,
+                    "route_section_id": "18823#15",
+                    "sequence_number": 4,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:37:54",
+                    "exit_time": "06:38:14",
+                    "route": 18823,
+                    "route_section_id": "18823#20",
+                    "sequence_number": 5,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:38:14",
+                    "exit_time": "06:38:34",
+                    "route": 18823,
+                    "route_section_id": "18823#25",
+                    "sequence_number": 6,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:38:34",
+                    "exit_time": "06:38:45",
+                    "route": 18823,
+                    "route_section_id": "18823#30",
+                    "sequence_number": 7,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:38:45",
+                    "exit_time": "06:38:59",
+                    "route": 18823,
+                    "route_section_id": "18823#35",
+                    "sequence_number": 8,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:38:59",
+                    "exit_time": "06:39:33",
+                    "route": 18823,
+                    "route_section_id": "18823#37",
+                    "sequence_number": 9,
+                    "route_path": "standard",
+                    "section_requirement": "ZWIE_Halt"
+                },
+                {
+                    "entry_time": "06:39:33",
+                    "exit_time": "06:40:17",
+                    "route": 18823,
+                    "route_section_id": "18823#40",
+                    "sequence_number": 10,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:40:17",
+                    "exit_time": "06:40:37",
+                    "route": 18823,
+                    "route_section_id": "18823#45",
+                    "sequence_number": 11,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:40:37",
+                    "exit_time": "06:40:57",
+                    "route": 18823,
+                    "route_section_id": "18823#50",
+                    "sequence_number": 12,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:40:57",
+                    "exit_time": "06:43:00",
+                    "route": 18823,
+                    "route_section_id": "18823#52",
+                    "sequence_number": 13,
+                    "route_path": "standard",
+                    "section_requirement": "ZEN_Halt"
+                },
+                {
+                    "entry_time": "06:43:00",
+                    "exit_time": "06:43:47",
+                    "route": 18823,
+                    "route_section_id": "18823#55",
+                    "sequence_number": 14,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:43:47",
+                    "exit_time": "06:44:17",
+                    "route": 18823,
+                    "route_section_id": "18823#60",
+                    "sequence_number": 15,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:44:17",
+                    "exit_time": "06:44:35",
+                    "route": 18823,
+                    "route_section_id": "18823#65",
+                    "sequence_number": 16,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:44:35",
+                    "exit_time": "06:44:43",
+                    "route": 18823,
+                    "route_section_id": "18823#70",
+                    "sequence_number": 17,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:44:43",
+                    "exit_time": "06:45:17",
+                    "route": 18823,
+                    "route_section_id": "18823#72",
+                    "sequence_number": 18,
+                    "route_path": "standard",
+                    "section_requirement": "ZWOL_Halt"
+                },
+                {
+                    "entry_time": "06:45:17",
+                    "exit_time": "06:46:11",
+                    "route": 18823,
+                    "route_section_id": "18823#75",
+                    "sequence_number": 19,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:46:11",
+                    "exit_time": "06:46:23",
+                    "route": 18823,
+                    "route_section_id": "18823#80",
+                    "sequence_number": 20,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:46:23",
+                    "exit_time": "06:46:33",
+                    "route": 18823,
+                    "route_section_id": "18823#85",
+                    "sequence_number": 21,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:46:33",
+                    "exit_time": "06:47:06",
+                    "route": 18823,
+                    "route_section_id": "18823#90",
+                    "sequence_number": 22,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:47:06",
+                    "exit_time": "06:47:34",
+                    "route": 18823,
+                    "route_section_id": "18823#95",
+                    "sequence_number": 23,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:47:34",
+                    "exit_time": "06:47:59",
+                    "route": 18823,
+                    "route_section_id": "18823#100",
+                    "sequence_number": 24,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:47:59",
+                    "exit_time": "06:48:33",
+                    "route": 18823,
+                    "route_section_id": "18823#102",
+                    "sequence_number": 25,
+                    "route_path": "standard",
+                    "section_requirement": "KIL_Halt"
+                },
+                {
+                    "entry_time": "06:48:33",
+                    "exit_time": "06:49:18",
+                    "route": 18823,
+                    "route_section_id": "18823#105",
+                    "sequence_number": 26,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:49:18",
+                    "exit_time": "06:49:27",
+                    "route": 18823,
+                    "route_section_id": "18823#110",
+                    "sequence_number": 27,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:49:27",
+                    "exit_time": "06:49:40",
+                    "route": 18823,
+                    "route_section_id": "18823#115",
+                    "sequence_number": 28,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:49:40",
+                    "exit_time": "06:50:05",
+                    "route": 18823,
+                    "route_section_id": "18823#120",
+                    "sequence_number": 29,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:50:05",
+                    "exit_time": "06:50:39",
+                    "route": 18823,
+                    "route_section_id": "18823#122",
+                    "sequence_number": 30,
+                    "route_path": "standard",
+                    "section_requirement": "RUES_Halt"
+                },
+                {
+                    "entry_time": "06:50:39",
+                    "exit_time": "06:51:49",
+                    "route": 18823,
+                    "route_section_id": "18823#500",
+                    "sequence_number": 31,
+                    "route_path": "alternative_TW4_vonSee",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:51:49",
+                    "exit_time": "06:52:05",
+                    "route": 18823,
+                    "route_section_id": "18823#501",
+                    "sequence_number": 32,
+                    "route_path": "alternative_TW4_vonSee",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:52:05",
+                    "exit_time": "06:52:11",
+                    "route": 18823,
+                    "route_section_id": "18823#502",
+                    "sequence_number": 33,
+                    "route_path": "alternative_TW4_vonSee",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:52:11",
+                    "exit_time": "06:52:30",
+                    "route": 18823,
+                    "route_section_id": "18823#503",
+                    "sequence_number": 34,
+                    "route_path": "alternative_TW4_vonSee",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:52:30",
+                    "exit_time": "06:54:00",
+                    "route": 18823,
+                    "route_section_id": "18823#504",
+                    "sequence_number": 35,
+                    "route_path": "alternative_TW4_vonSee",
+                    "section_requirement": "TW_Halt"
+                },
+                {
+                    "entry_time": "06:54:00",
+                    "exit_time": "06:54:52",
+                    "route": 18823,
+                    "route_section_id": "18823#505",
+                    "sequence_number": 36,
+                    "route_path": "alternative_TW4_vonSee",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:54:52",
+                    "exit_time": "06:55:06",
+                    "route": 18823,
+                    "route_section_id": "18823#150",
+                    "sequence_number": 37,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:55:06",
+                    "exit_time": "06:55:14",
+                    "route": 18823,
+                    "route_section_id": "18823#155",
+                    "sequence_number": 38,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:55:14",
+                    "exit_time": "06:55:33",
+                    "route": 18823,
+                    "route_section_id": "18823#160",
+                    "sequence_number": 39,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:55:33",
+                    "exit_time": "06:55:47",
+                    "route": 18823,
+                    "route_section_id": "18823#165",
+                    "sequence_number": 40,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:55:47",
+                    "exit_time": "06:56:09",
+                    "route": 18823,
+                    "route_section_id": "18823#170",
+                    "sequence_number": 41,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:56:09",
+                    "exit_time": "06:56:43",
+                    "route": 18823,
+                    "route_section_id": "18823#172",
+                    "sequence_number": 42,
+                    "route_path": "standard",
+                    "section_requirement": "ORD_Halt"
+                },
+                {
+                    "entry_time": "06:56:43",
+                    "exit_time": "06:57:28",
+                    "route": 18823,
+                    "route_section_id": "18823#175",
+                    "sequence_number": 43,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:57:28",
+                    "exit_time": "06:58:20",
+                    "route": 18823,
+                    "route_section_id": "18823#180",
+                    "sequence_number": 44,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:58:20",
+                    "exit_time": "06:58:39",
+                    "route": 18823,
+                    "route_section_id": "18823#185",
+                    "sequence_number": 45,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:58:39",
+                    "exit_time": "06:59:13",
+                    "route": 18823,
+                    "route_section_id": "18823#187",
+                    "sequence_number": 46,
+                    "route_path": "standard",
+                    "section_requirement": "HG_Halt"
+                },
+                {
+                    "entry_time": "06:59:13",
+                    "exit_time": "07:00:13",
+                    "route": 18823,
+                    "route_section_id": "18823#190",
+                    "sequence_number": 47,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:00:13",
+                    "exit_time": "07:00:27",
+                    "route": 18823,
+                    "route_section_id": "18823#195",
+                    "sequence_number": 48,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:00:27",
+                    "exit_time": "07:01:16",
+                    "route": 18823,
+                    "route_section_id": "18823#200",
+                    "sequence_number": 49,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:01:16",
+                    "exit_time": "07:01:54",
+                    "route": 18823,
+                    "route_section_id": "18823#205",
+                    "sequence_number": 50,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:01:54",
+                    "exit_time": "07:02:09",
+                    "route": 18823,
+                    "route_section_id": "18823#210",
+                    "sequence_number": 51,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:02:09",
+                    "exit_time": "07:02:43",
+                    "route": 18823,
+                    "route_section_id": "18823#212",
+                    "sequence_number": 52,
+                    "route_path": "standard",
+                    "section_requirement": "AU_Halt"
+                },
+                {
+                    "entry_time": "07:02:43",
+                    "exit_time": "07:03:48",
+                    "route": 18823,
+                    "route_section_id": "18823#215",
+                    "sequence_number": 53,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:03:48",
+                    "exit_time": "07:03:57",
+                    "route": 18823,
+                    "route_section_id": "18823#220",
+                    "sequence_number": 54,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:03:57",
+                    "exit_time": "07:04:39",
+                    "route": 18823,
+                    "route_section_id": "18823#225",
+                    "sequence_number": 55,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:04:39",
+                    "exit_time": "07:05:14",
+                    "route": 18823,
+                    "route_section_id": "18823#230",
+                    "sequence_number": 56,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:05:14",
+                    "exit_time": "07:05:38",
+                    "route": 18823,
+                    "route_section_id": "18823#235",
+                    "sequence_number": 57,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:05:38",
+                    "exit_time": "07:07:00",
+                    "route": 18823,
+                    "route_section_id": "18823#237",
+                    "sequence_number": 58,
+                    "route_path": "standard",
+                    "section_requirement": "WAE_Halt"
+                },
+                {
+                    "entry_time": "07:07:00",
+                    "exit_time": "07:07:54",
+                    "route": 18823,
+                    "route_section_id": "18823#240",
+                    "sequence_number": 59,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:07:54",
+                    "exit_time": "07:08:10",
+                    "route": 18823,
+                    "route_section_id": "18823#245",
+                    "sequence_number": 60,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:08:10",
+                    "exit_time": "07:08:24",
+                    "route": 18823,
+                    "route_section_id": "18823#250",
+                    "sequence_number": 61,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:08:24",
+                    "exit_time": "07:09:01",
+                    "route": 18823,
+                    "route_section_id": "18823#255",
+                    "sequence_number": 62,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:09:01",
+                    "exit_time": "07:09:37",
+                    "route": 18823,
+                    "route_section_id": "18823#260",
+                    "sequence_number": 63,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:09:37",
+                    "exit_time": "07:10:11",
+                    "route": 18823,
+                    "route_section_id": "18823#262",
+                    "sequence_number": 64,
+                    "route_path": "standard",
+                    "section_requirement": "RI_Halt"
+                },
+                {
+                    "entry_time": "07:10:11",
+                    "exit_time": "07:11:17",
+                    "route": 18823,
+                    "route_section_id": "18823#265",
+                    "sequence_number": 65,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:11:17",
+                    "exit_time": "07:11:50",
+                    "route": 18823,
+                    "route_section_id": "18823#270",
+                    "sequence_number": 66,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:11:50",
+                    "exit_time": "07:12:05",
+                    "route": 18823,
+                    "route_section_id": "18823#275",
+                    "sequence_number": 67,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:12:05",
+                    "exit_time": "07:12:39",
+                    "route": 18823,
+                    "route_section_id": "18823#277",
+                    "sequence_number": 68,
+                    "route_path": "standard",
+                    "section_requirement": "BAE_Halt"
+                },
+                {
+                    "entry_time": "07:12:39",
+                    "exit_time": "07:13:52",
+                    "route": 18823,
+                    "route_section_id": "18823#280",
+                    "sequence_number": 69,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:13:52",
+                    "exit_time": "07:14:21",
+                    "route": 18823,
+                    "route_section_id": "18823#285",
+                    "sequence_number": 70,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:14:21",
+                    "exit_time": "07:14:55",
+                    "route": 18823,
+                    "route_section_id": "18823#287",
+                    "sequence_number": 71,
+                    "route_path": "standard",
+                    "section_requirement": "FRB_Halt"
+                },
+                {
+                    "entry_time": "07:14:55",
+                    "exit_time": "07:16:18",
+                    "route": 18823,
+                    "route_section_id": "18823#290",
+                    "sequence_number": 72,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:16:18",
+                    "exit_time": "07:16:57",
+                    "route": 18823,
+                    "route_section_id": "18823#295",
+                    "sequence_number": 73,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:16:57",
+                    "exit_time": "07:17:36",
+                    "route": 18823,
+                    "route_section_id": "18823#300",
+                    "sequence_number": 74,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:17:36",
+                    "exit_time": "07:21:41",
+                    "route": 18823,
+                    "route_section_id": "18823#305",
+                    "sequence_number": 75,
+                    "route_path": "standard",
+                    "section_requirement": "PF_Halt"
+                }
+            ]
+        },
+        {
+            "service_intention_id": 18825,
+            "train_run_sections": [
+                {
+                    "entry_time": "07:05:00",
+                    "exit_time": "07:07:00",
+                    "route": 18825,
+                    "route_section_id": "18825#1",
+                    "sequence_number": 1,
+                    "route_path": "standard",
+                    "section_requirement": "ZLOE_Halt"
+                },
+                {
+                    "entry_time": "07:07:00",
+                    "exit_time": "07:07:32",
+                    "route": 18825,
+                    "route_section_id": "18825#5",
+                    "sequence_number": 2,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:07:32",
+                    "exit_time": "07:07:40",
+                    "route": 18825,
+                    "route_section_id": "18825#10",
+                    "sequence_number": 3,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:07:40",
+                    "exit_time": "07:07:54",
+                    "route": 18825,
+                    "route_section_id": "18825#15",
+                    "sequence_number": 4,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:07:54",
+                    "exit_time": "07:08:14",
+                    "route": 18825,
+                    "route_section_id": "18825#20",
+                    "sequence_number": 5,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:08:14",
+                    "exit_time": "07:08:34",
+                    "route": 18825,
+                    "route_section_id": "18825#25",
+                    "sequence_number": 6,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:08:34",
+                    "exit_time": "07:08:45",
+                    "route": 18825,
+                    "route_section_id": "18825#30",
+                    "sequence_number": 7,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:08:45",
+                    "exit_time": "07:08:59",
+                    "route": 18825,
+                    "route_section_id": "18825#35",
+                    "sequence_number": 8,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:08:59",
+                    "exit_time": "07:09:33",
+                    "route": 18825,
+                    "route_section_id": "18825#37",
+                    "sequence_number": 9,
+                    "route_path": "standard",
+                    "section_requirement": "ZWIE_Halt"
+                },
+                {
+                    "entry_time": "07:09:33",
+                    "exit_time": "07:10:17",
+                    "route": 18825,
+                    "route_section_id": "18825#40",
+                    "sequence_number": 10,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:10:17",
+                    "exit_time": "07:10:37",
+                    "route": 18825,
+                    "route_section_id": "18825#45",
+                    "sequence_number": 11,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:10:37",
+                    "exit_time": "07:10:57",
+                    "route": 18825,
+                    "route_section_id": "18825#50",
+                    "sequence_number": 12,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:10:57",
+                    "exit_time": "07:13:00",
+                    "route": 18825,
+                    "route_section_id": "18825#52",
+                    "sequence_number": 13,
+                    "route_path": "standard",
+                    "section_requirement": "ZEN_Halt"
+                },
+                {
+                    "entry_time": "07:13:00",
+                    "exit_time": "07:13:47",
+                    "route": 18825,
+                    "route_section_id": "18825#55",
+                    "sequence_number": 14,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:13:47",
+                    "exit_time": "07:14:17",
+                    "route": 18825,
+                    "route_section_id": "18825#60",
+                    "sequence_number": 15,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:14:17",
+                    "exit_time": "07:14:35",
+                    "route": 18825,
+                    "route_section_id": "18825#65",
+                    "sequence_number": 16,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:14:35",
+                    "exit_time": "07:14:43",
+                    "route": 18825,
+                    "route_section_id": "18825#70",
+                    "sequence_number": 17,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:14:43",
+                    "exit_time": "07:15:17",
+                    "route": 18825,
+                    "route_section_id": "18825#72",
+                    "sequence_number": 18,
+                    "route_path": "standard",
+                    "section_requirement": "ZWOL_Halt"
+                },
+                {
+                    "entry_time": "07:15:17",
+                    "exit_time": "07:16:11",
+                    "route": 18825,
+                    "route_section_id": "18825#75",
+                    "sequence_number": 19,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:16:11",
+                    "exit_time": "07:16:23",
+                    "route": 18825,
+                    "route_section_id": "18825#80",
+                    "sequence_number": 20,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:16:23",
+                    "exit_time": "07:16:33",
+                    "route": 18825,
+                    "route_section_id": "18825#85",
+                    "sequence_number": 21,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:16:33",
+                    "exit_time": "07:17:06",
+                    "route": 18825,
+                    "route_section_id": "18825#90",
+                    "sequence_number": 22,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:17:06",
+                    "exit_time": "07:17:34",
+                    "route": 18825,
+                    "route_section_id": "18825#95",
+                    "sequence_number": 23,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:17:34",
+                    "exit_time": "07:17:59",
+                    "route": 18825,
+                    "route_section_id": "18825#100",
+                    "sequence_number": 24,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:17:59",
+                    "exit_time": "07:18:33",
+                    "route": 18825,
+                    "route_section_id": "18825#102",
+                    "sequence_number": 25,
+                    "route_path": "standard",
+                    "section_requirement": "KIL_Halt"
+                },
+                {
+                    "entry_time": "07:18:33",
+                    "exit_time": "07:19:18",
+                    "route": 18825,
+                    "route_section_id": "18825#105",
+                    "sequence_number": 26,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:19:18",
+                    "exit_time": "07:19:27",
+                    "route": 18825,
+                    "route_section_id": "18825#110",
+                    "sequence_number": 27,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:19:27",
+                    "exit_time": "07:19:40",
+                    "route": 18825,
+                    "route_section_id": "18825#115",
+                    "sequence_number": 28,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:19:40",
+                    "exit_time": "07:20:05",
+                    "route": 18825,
+                    "route_section_id": "18825#120",
+                    "sequence_number": 29,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:20:05",
+                    "exit_time": "07:20:39",
+                    "route": 18825,
+                    "route_section_id": "18825#122",
+                    "sequence_number": 30,
+                    "route_path": "standard",
+                    "section_requirement": "RUES_Halt"
+                },
+                {
+                    "entry_time": "07:20:39",
+                    "exit_time": "07:21:49",
+                    "route": 18825,
+                    "route_section_id": "18825#500",
+                    "sequence_number": 31,
+                    "route_path": "alternative_TW4_vonSee",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:21:49",
+                    "exit_time": "07:22:05",
+                    "route": 18825,
+                    "route_section_id": "18825#501",
+                    "sequence_number": 32,
+                    "route_path": "alternative_TW4_vonSee",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:22:05",
+                    "exit_time": "07:22:11",
+                    "route": 18825,
+                    "route_section_id": "18825#502",
+                    "sequence_number": 33,
+                    "route_path": "alternative_TW4_vonSee",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:22:11",
+                    "exit_time": "07:22:30",
+                    "route": 18825,
+                    "route_section_id": "18825#503",
+                    "sequence_number": 34,
+                    "route_path": "alternative_TW4_vonSee",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:22:30",
+                    "exit_time": "07:24:00",
+                    "route": 18825,
+                    "route_section_id": "18825#504",
+                    "sequence_number": 35,
+                    "route_path": "alternative_TW4_vonSee",
+                    "section_requirement": "TW_Halt"
+                },
+                {
+                    "entry_time": "07:24:00",
+                    "exit_time": "07:24:52",
+                    "route": 18825,
+                    "route_section_id": "18825#505",
+                    "sequence_number": 36,
+                    "route_path": "alternative_TW4_vonSee",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:24:52",
+                    "exit_time": "07:25:06",
+                    "route": 18825,
+                    "route_section_id": "18825#150",
+                    "sequence_number": 37,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:25:06",
+                    "exit_time": "07:25:14",
+                    "route": 18825,
+                    "route_section_id": "18825#155",
+                    "sequence_number": 38,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:25:14",
+                    "exit_time": "07:25:33",
+                    "route": 18825,
+                    "route_section_id": "18825#160",
+                    "sequence_number": 39,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:25:33",
+                    "exit_time": "07:25:47",
+                    "route": 18825,
+                    "route_section_id": "18825#165",
+                    "sequence_number": 40,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:25:47",
+                    "exit_time": "07:26:09",
+                    "route": 18825,
+                    "route_section_id": "18825#170",
+                    "sequence_number": 41,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:26:09",
+                    "exit_time": "07:26:43",
+                    "route": 18825,
+                    "route_section_id": "18825#172",
+                    "sequence_number": 42,
+                    "route_path": "standard",
+                    "section_requirement": "ORD_Halt"
+                },
+                {
+                    "entry_time": "07:26:43",
+                    "exit_time": "07:27:28",
+                    "route": 18825,
+                    "route_section_id": "18825#175",
+                    "sequence_number": 43,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:27:28",
+                    "exit_time": "07:28:20",
+                    "route": 18825,
+                    "route_section_id": "18825#180",
+                    "sequence_number": 44,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:28:20",
+                    "exit_time": "07:28:39",
+                    "route": 18825,
+                    "route_section_id": "18825#185",
+                    "sequence_number": 45,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:28:39",
+                    "exit_time": "07:29:13",
+                    "route": 18825,
+                    "route_section_id": "18825#187",
+                    "sequence_number": 46,
+                    "route_path": "standard",
+                    "section_requirement": "HG_Halt"
+                },
+                {
+                    "entry_time": "07:29:13",
+                    "exit_time": "07:30:13",
+                    "route": 18825,
+                    "route_section_id": "18825#190",
+                    "sequence_number": 47,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:30:13",
+                    "exit_time": "07:30:27",
+                    "route": 18825,
+                    "route_section_id": "18825#195",
+                    "sequence_number": 48,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:30:27",
+                    "exit_time": "07:31:16",
+                    "route": 18825,
+                    "route_section_id": "18825#200",
+                    "sequence_number": 49,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:31:16",
+                    "exit_time": "07:31:54",
+                    "route": 18825,
+                    "route_section_id": "18825#205",
+                    "sequence_number": 50,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:31:54",
+                    "exit_time": "07:32:09",
+                    "route": 18825,
+                    "route_section_id": "18825#210",
+                    "sequence_number": 51,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:32:09",
+                    "exit_time": "07:32:43",
+                    "route": 18825,
+                    "route_section_id": "18825#212",
+                    "sequence_number": 52,
+                    "route_path": "standard",
+                    "section_requirement": "AU_Halt"
+                },
+                {
+                    "entry_time": "07:32:43",
+                    "exit_time": "07:33:48",
+                    "route": 18825,
+                    "route_section_id": "18825#215",
+                    "sequence_number": 53,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:33:48",
+                    "exit_time": "07:33:57",
+                    "route": 18825,
+                    "route_section_id": "18825#220",
+                    "sequence_number": 54,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:33:57",
+                    "exit_time": "07:34:39",
+                    "route": 18825,
+                    "route_section_id": "18825#225",
+                    "sequence_number": 55,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:34:39",
+                    "exit_time": "07:35:14",
+                    "route": 18825,
+                    "route_section_id": "18825#230",
+                    "sequence_number": 56,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:35:14",
+                    "exit_time": "07:35:38",
+                    "route": 18825,
+                    "route_section_id": "18825#235",
+                    "sequence_number": 57,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:35:38",
+                    "exit_time": "07:37:00",
+                    "route": 18825,
+                    "route_section_id": "18825#237",
+                    "sequence_number": 58,
+                    "route_path": "standard",
+                    "section_requirement": "WAE_Halt"
+                },
+                {
+                    "entry_time": "07:37:00",
+                    "exit_time": "07:37:54",
+                    "route": 18825,
+                    "route_section_id": "18825#240",
+                    "sequence_number": 59,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:37:54",
+                    "exit_time": "07:38:10",
+                    "route": 18825,
+                    "route_section_id": "18825#245",
+                    "sequence_number": 60,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:38:10",
+                    "exit_time": "07:38:24",
+                    "route": 18825,
+                    "route_section_id": "18825#250",
+                    "sequence_number": 61,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:38:24",
+                    "exit_time": "07:39:01",
+                    "route": 18825,
+                    "route_section_id": "18825#255",
+                    "sequence_number": 62,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:39:01",
+                    "exit_time": "07:39:37",
+                    "route": 18825,
+                    "route_section_id": "18825#260",
+                    "sequence_number": 63,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:39:37",
+                    "exit_time": "07:40:11",
+                    "route": 18825,
+                    "route_section_id": "18825#262",
+                    "sequence_number": 64,
+                    "route_path": "standard",
+                    "section_requirement": "RI_Halt"
+                },
+                {
+                    "entry_time": "07:40:11",
+                    "exit_time": "07:41:17",
+                    "route": 18825,
+                    "route_section_id": "18825#265",
+                    "sequence_number": 65,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:41:17",
+                    "exit_time": "07:41:50",
+                    "route": 18825,
+                    "route_section_id": "18825#270",
+                    "sequence_number": 66,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:41:50",
+                    "exit_time": "07:42:05",
+                    "route": 18825,
+                    "route_section_id": "18825#275",
+                    "sequence_number": 67,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:42:05",
+                    "exit_time": "07:42:39",
+                    "route": 18825,
+                    "route_section_id": "18825#277",
+                    "sequence_number": 68,
+                    "route_path": "standard",
+                    "section_requirement": "BAE_Halt"
+                },
+                {
+                    "entry_time": "07:42:39",
+                    "exit_time": "07:43:52",
+                    "route": 18825,
+                    "route_section_id": "18825#280",
+                    "sequence_number": 69,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:43:52",
+                    "exit_time": "07:44:21",
+                    "route": 18825,
+                    "route_section_id": "18825#285",
+                    "sequence_number": 70,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:44:21",
+                    "exit_time": "07:44:55",
+                    "route": 18825,
+                    "route_section_id": "18825#287",
+                    "sequence_number": 71,
+                    "route_path": "standard",
+                    "section_requirement": "FRB_Halt"
+                },
+                {
+                    "entry_time": "07:44:55",
+                    "exit_time": "07:46:18",
+                    "route": 18825,
+                    "route_section_id": "18825#290",
+                    "sequence_number": 72,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:46:18",
+                    "exit_time": "07:46:57",
+                    "route": 18825,
+                    "route_section_id": "18825#295",
+                    "sequence_number": 73,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:46:57",
+                    "exit_time": "07:47:36",
+                    "route": 18825,
+                    "route_section_id": "18825#300",
+                    "sequence_number": 74,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:47:36",
+                    "exit_time": "07:51:41",
+                    "route": 18825,
+                    "route_section_id": "18825#305",
+                    "sequence_number": 75,
+                    "route_path": "standard",
+                    "section_requirement": "PF_Halt"
+                }
+            ]
+        },
+        {
+            "service_intention_id": 20423,
+            "train_run_sections": [
+                {
+                    "entry_time": "06:48:00",
+                    "exit_time": "06:51:00",
+                    "route": 20423,
+                    "route_section_id": "20423#1",
+                    "sequence_number": 1,
+                    "route_path": "standard",
+                    "section_requirement": "ZUE_Halt"
+                },
+                {
+                    "entry_time": "06:51:00",
+                    "exit_time": "06:51:40",
+                    "route": 20423,
+                    "route_section_id": "20423#5",
+                    "sequence_number": 2,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:51:40",
+                    "exit_time": "06:52:12",
+                    "route": 20423,
+                    "route_section_id": "20423#10",
+                    "sequence_number": 3,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:52:12",
+                    "exit_time": "06:52:29",
+                    "route": 20423,
+                    "route_section_id": "20423#15",
+                    "sequence_number": 4,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:52:29",
+                    "exit_time": "06:52:55",
+                    "route": 20423,
+                    "route_section_id": "20423#20",
+                    "sequence_number": 5,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:52:55",
+                    "exit_time": "06:53:15",
+                    "route": 20423,
+                    "route_section_id": "20423#25",
+                    "sequence_number": 6,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:53:15",
+                    "exit_time": "06:53:26",
+                    "route": 20423,
+                    "route_section_id": "20423#30",
+                    "sequence_number": 7,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:53:26",
+                    "exit_time": "06:53:40",
+                    "route": 20423,
+                    "route_section_id": "20423#35",
+                    "sequence_number": 8,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:53:40",
+                    "exit_time": "06:54:14",
+                    "route": 20423,
+                    "route_section_id": "20423#37",
+                    "sequence_number": 9,
+                    "route_path": "standard",
+                    "section_requirement": "ZWIE_Halt"
+                },
+                {
+                    "entry_time": "06:54:14",
+                    "exit_time": "06:54:59",
+                    "route": 20423,
+                    "route_section_id": "20423#40",
+                    "sequence_number": 10,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:54:59",
+                    "exit_time": "06:55:16",
+                    "route": 20423,
+                    "route_section_id": "20423#45",
+                    "sequence_number": 11,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:55:16",
+                    "exit_time": "06:55:37",
+                    "route": 20423,
+                    "route_section_id": "20423#50",
+                    "sequence_number": 12,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:55:37",
+                    "exit_time": "06:58:00",
+                    "route": 20423,
+                    "route_section_id": "20423#52",
+                    "sequence_number": 13,
+                    "route_path": "standard",
+                    "section_requirement": "ZEN_Halt"
+                },
+                {
+                    "entry_time": "06:58:00",
+                    "exit_time": "06:58:46",
+                    "route": 20423,
+                    "route_section_id": "20423#55",
+                    "sequence_number": 14,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:58:46",
+                    "exit_time": "06:59:11",
+                    "route": 20423,
+                    "route_section_id": "20423#60",
+                    "sequence_number": 15,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:59:11",
+                    "exit_time": "06:59:28",
+                    "route": 20423,
+                    "route_section_id": "20423#65",
+                    "sequence_number": 16,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:59:28",
+                    "exit_time": "06:59:37",
+                    "route": 20423,
+                    "route_section_id": "20423#70",
+                    "sequence_number": 17,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "06:59:37",
+                    "exit_time": "07:00:11",
+                    "route": 20423,
+                    "route_section_id": "20423#72",
+                    "sequence_number": 18,
+                    "route_path": "standard",
+                    "section_requirement": "ZWOL_Halt"
+                },
+                {
+                    "entry_time": "07:00:11",
+                    "exit_time": "07:01:05",
+                    "route": 20423,
+                    "route_section_id": "20423#75",
+                    "sequence_number": 19,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:01:05",
+                    "exit_time": "07:01:17",
+                    "route": 20423,
+                    "route_section_id": "20423#80",
+                    "sequence_number": 20,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:01:17",
+                    "exit_time": "07:01:27",
+                    "route": 20423,
+                    "route_section_id": "20423#85",
+                    "sequence_number": 21,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:01:27",
+                    "exit_time": "07:01:59",
+                    "route": 20423,
+                    "route_section_id": "20423#90",
+                    "sequence_number": 22,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:01:59",
+                    "exit_time": "07:02:27",
+                    "route": 20423,
+                    "route_section_id": "20423#95",
+                    "sequence_number": 23,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:02:27",
+                    "exit_time": "07:02:51",
+                    "route": 20423,
+                    "route_section_id": "20423#100",
+                    "sequence_number": 24,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:02:51",
+                    "exit_time": "07:03:25",
+                    "route": 20423,
+                    "route_section_id": "20423#102",
+                    "sequence_number": 25,
+                    "route_path": "standard",
+                    "section_requirement": "KIL_Halt"
+                },
+                {
+                    "entry_time": "07:03:25",
+                    "exit_time": "07:04:11",
+                    "route": 20423,
+                    "route_section_id": "20423#105",
+                    "sequence_number": 26,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:04:11",
+                    "exit_time": "07:04:20",
+                    "route": 20423,
+                    "route_section_id": "20423#110",
+                    "sequence_number": 27,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:04:20",
+                    "exit_time": "07:04:31",
+                    "route": 20423,
+                    "route_section_id": "20423#115",
+                    "sequence_number": 28,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:04:31",
+                    "exit_time": "07:04:56",
+                    "route": 20423,
+                    "route_section_id": "20423#120",
+                    "sequence_number": 29,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:04:56",
+                    "exit_time": "07:05:30",
+                    "route": 20423,
+                    "route_section_id": "20423#122",
+                    "sequence_number": 30,
+                    "route_path": "standard",
+                    "section_requirement": "RUES_Halt"
+                },
+                {
+                    "entry_time": "07:05:30",
+                    "exit_time": "07:06:39",
+                    "route": 20423,
+                    "route_section_id": "20423#125",
+                    "sequence_number": 31,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:06:39",
+                    "exit_time": "07:06:56",
+                    "route": 20423,
+                    "route_section_id": "20423#130",
+                    "sequence_number": 32,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:06:56",
+                    "exit_time": "07:07:03",
+                    "route": 20423,
+                    "route_section_id": "20423#135",
+                    "sequence_number": 33,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:07:03",
+                    "exit_time": "07:07:24",
+                    "route": 20423,
+                    "route_section_id": "20423#140",
+                    "sequence_number": 34,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:07:24",
+                    "exit_time": "07:09:00",
+                    "route": 20423,
+                    "route_section_id": "20423#142",
+                    "sequence_number": 35,
+                    "route_path": "standard",
+                    "section_requirement": "TW_Halt"
+                },
+                {
+                    "entry_time": "07:09:00",
+                    "exit_time": "07:09:51",
+                    "route": 20423,
+                    "route_section_id": "20423#145",
+                    "sequence_number": 36,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:09:51",
+                    "exit_time": "07:10:06",
+                    "route": 20423,
+                    "route_section_id": "20423#150",
+                    "sequence_number": 37,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:10:06",
+                    "exit_time": "07:10:44",
+                    "route": 20423,
+                    "route_section_id": "20423#155",
+                    "sequence_number": 38,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:10:44",
+                    "exit_time": "07:11:22",
+                    "route": 20423,
+                    "route_section_id": "20423#160",
+                    "sequence_number": 39,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:11:22",
+                    "exit_time": "07:11:56",
+                    "route": 20423,
+                    "route_section_id": "20423#162",
+                    "sequence_number": 40,
+                    "route_path": "standard",
+                    "section_requirement": "ORDD_Halt"
+                },
+                {
+                    "entry_time": "07:11:56",
+                    "exit_time": "07:13:12",
+                    "route": 20423,
+                    "route_section_id": "20423#165",
+                    "sequence_number": 41,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:13:12",
+                    "exit_time": "07:13:34",
+                    "route": 20423,
+                    "route_section_id": "20423#170",
+                    "sequence_number": 42,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:13:34",
+                    "exit_time": "07:13:55",
+                    "route": 20423,
+                    "route_section_id": "20423#175",
+                    "sequence_number": 43,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:13:55",
+                    "exit_time": "07:14:29",
+                    "route": 20423,
+                    "route_section_id": "20423#177",
+                    "sequence_number": 44,
+                    "route_path": "standard",
+                    "section_requirement": "HGO_Halt"
+                },
+                {
+                    "entry_time": "07:14:29",
+                    "exit_time": "07:15:20",
+                    "route": 20423,
+                    "route_section_id": "20423#180",
+                    "sequence_number": 45,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:15:20",
+                    "exit_time": "07:15:29",
+                    "route": 20423,
+                    "route_section_id": "20423#185",
+                    "sequence_number": 46,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:15:29",
+                    "exit_time": "07:15:56",
+                    "route": 20423,
+                    "route_section_id": "20423#190",
+                    "sequence_number": 47,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:15:56",
+                    "exit_time": "07:16:39",
+                    "route": 20423,
+                    "route_section_id": "20423#195",
+                    "sequence_number": 48,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:16:39",
+                    "exit_time": "07:17:02",
+                    "route": 20423,
+                    "route_section_id": "20423#200",
+                    "sequence_number": 49,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:17:02",
+                    "exit_time": "07:17:16",
+                    "route": 20423,
+                    "route_section_id": "20423#205",
+                    "sequence_number": 50,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:17:16",
+                    "exit_time": "07:17:26",
+                    "route": 20423,
+                    "route_section_id": "20423#210",
+                    "sequence_number": 51,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:17:26",
+                    "exit_time": "07:17:48",
+                    "route": 20423,
+                    "route_section_id": "20423#215",
+                    "sequence_number": 52,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:17:48",
+                    "exit_time": "07:18:22",
+                    "route": 20423,
+                    "route_section_id": "20423#220",
+                    "sequence_number": 53,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:18:22",
+                    "exit_time": "07:18:59",
+                    "route": 20423,
+                    "route_section_id": "20423#225",
+                    "sequence_number": 54,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:18:59",
+                    "exit_time": "07:19:35",
+                    "route": 20423,
+                    "route_section_id": "20423#230",
+                    "sequence_number": 55,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:19:35",
+                    "exit_time": "07:19:49",
+                    "route": 20423,
+                    "route_section_id": "20423#235",
+                    "sequence_number": 56,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:19:49",
+                    "exit_time": "07:20:20",
+                    "route": 20423,
+                    "route_section_id": "20423#240",
+                    "sequence_number": 57,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:20:20",
+                    "exit_time": "07:20:29",
+                    "route": 20423,
+                    "route_section_id": "20423#245",
+                    "sequence_number": 58,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:20:29",
+                    "exit_time": "07:20:47",
+                    "route": 20423,
+                    "route_section_id": "20423#250",
+                    "sequence_number": 59,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:20:47",
+                    "exit_time": "07:21:14",
+                    "route": 20423,
+                    "route_section_id": "20423#255",
+                    "sequence_number": 60,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:21:14",
+                    "exit_time": "07:21:48",
+                    "route": 20423,
+                    "route_section_id": "20423#257",
+                    "sequence_number": 61,
+                    "route_path": "standard",
+                    "section_requirement": "BAA_Halt"
+                },
+                {
+                    "entry_time": "07:21:48",
+                    "exit_time": "07:22:52",
+                    "route": 20423,
+                    "route_section_id": "20423#260",
+                    "sequence_number": 62,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:22:52",
+                    "exit_time": "07:23:01",
+                    "route": 20423,
+                    "route_section_id": "20423#265",
+                    "sequence_number": 63,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:23:01",
+                    "exit_time": "07:23:17",
+                    "route": 20423,
+                    "route_section_id": "20423#270",
+                    "sequence_number": 64,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:23:17",
+                    "exit_time": "07:23:30",
+                    "route": 20423,
+                    "route_section_id": "20423#275",
+                    "sequence_number": 65,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:23:30",
+                    "exit_time": "07:23:53",
+                    "route": 20423,
+                    "route_section_id": "20423#280",
+                    "sequence_number": 66,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:23:53",
+                    "exit_time": "07:24:06",
+                    "route": 20423,
+                    "route_section_id": "20423#285",
+                    "sequence_number": 67,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:24:06",
+                    "exit_time": "07:24:33",
+                    "route": 20423,
+                    "route_section_id": "20423#290",
+                    "sequence_number": 68,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:24:33",
+                    "exit_time": "07:24:48",
+                    "route": 20423,
+                    "route_section_id": "20423#295",
+                    "sequence_number": 69,
+                    "route_path": "standard",
+                    "section_requirement": "ZG_Halt"
+                }
+            ]
+        },
+        {
+            "service_intention_id": 20425,
+            "train_run_sections": [
+                {
+                    "entry_time": "07:18:00",
+                    "exit_time": "07:21:00",
+                    "route": 20425,
+                    "route_section_id": "20425#1",
+                    "sequence_number": 1,
+                    "route_path": "standard",
+                    "section_requirement": "ZUE_Halt"
+                },
+                {
+                    "entry_time": "07:21:00",
+                    "exit_time": "07:21:40",
+                    "route": 20425,
+                    "route_section_id": "20425#5",
+                    "sequence_number": 2,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:21:40",
+                    "exit_time": "07:22:12",
+                    "route": 20425,
+                    "route_section_id": "20425#10",
+                    "sequence_number": 3,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:22:12",
+                    "exit_time": "07:22:29",
+                    "route": 20425,
+                    "route_section_id": "20425#15",
+                    "sequence_number": 4,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:22:29",
+                    "exit_time": "07:22:55",
+                    "route": 20425,
+                    "route_section_id": "20425#20",
+                    "sequence_number": 5,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:22:55",
+                    "exit_time": "07:23:15",
+                    "route": 20425,
+                    "route_section_id": "20425#25",
+                    "sequence_number": 6,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:23:15",
+                    "exit_time": "07:23:26",
+                    "route": 20425,
+                    "route_section_id": "20425#30",
+                    "sequence_number": 7,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:23:26",
+                    "exit_time": "07:23:40",
+                    "route": 20425,
+                    "route_section_id": "20425#35",
+                    "sequence_number": 8,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:23:40",
+                    "exit_time": "07:24:14",
+                    "route": 20425,
+                    "route_section_id": "20425#37",
+                    "sequence_number": 9,
+                    "route_path": "standard",
+                    "section_requirement": "ZWIE_Halt"
+                },
+                {
+                    "entry_time": "07:24:14",
+                    "exit_time": "07:24:59",
+                    "route": 20425,
+                    "route_section_id": "20425#40",
+                    "sequence_number": 10,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:24:59",
+                    "exit_time": "07:25:16",
+                    "route": 20425,
+                    "route_section_id": "20425#45",
+                    "sequence_number": 11,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:25:16",
+                    "exit_time": "07:25:37",
+                    "route": 20425,
+                    "route_section_id": "20425#50",
+                    "sequence_number": 12,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:25:37",
+                    "exit_time": "07:28:00",
+                    "route": 20425,
+                    "route_section_id": "20425#52",
+                    "sequence_number": 13,
+                    "route_path": "standard",
+                    "section_requirement": "ZEN_Halt"
+                },
+                {
+                    "entry_time": "07:28:00",
+                    "exit_time": "07:28:46",
+                    "route": 20425,
+                    "route_section_id": "20425#55",
+                    "sequence_number": 14,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:28:46",
+                    "exit_time": "07:29:11",
+                    "route": 20425,
+                    "route_section_id": "20425#60",
+                    "sequence_number": 15,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:29:11",
+                    "exit_time": "07:29:28",
+                    "route": 20425,
+                    "route_section_id": "20425#65",
+                    "sequence_number": 16,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:29:28",
+                    "exit_time": "07:29:37",
+                    "route": 20425,
+                    "route_section_id": "20425#70",
+                    "sequence_number": 17,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:29:37",
+                    "exit_time": "07:30:11",
+                    "route": 20425,
+                    "route_section_id": "20425#72",
+                    "sequence_number": 18,
+                    "route_path": "standard",
+                    "section_requirement": "ZWOL_Halt"
+                },
+                {
+                    "entry_time": "07:30:11",
+                    "exit_time": "07:31:05",
+                    "route": 20425,
+                    "route_section_id": "20425#75",
+                    "sequence_number": 19,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:31:05",
+                    "exit_time": "07:31:17",
+                    "route": 20425,
+                    "route_section_id": "20425#80",
+                    "sequence_number": 20,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:31:17",
+                    "exit_time": "07:31:27",
+                    "route": 20425,
+                    "route_section_id": "20425#85",
+                    "sequence_number": 21,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:31:27",
+                    "exit_time": "07:31:59",
+                    "route": 20425,
+                    "route_section_id": "20425#90",
+                    "sequence_number": 22,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:31:59",
+                    "exit_time": "07:32:27",
+                    "route": 20425,
+                    "route_section_id": "20425#95",
+                    "sequence_number": 23,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:32:27",
+                    "exit_time": "07:32:51",
+                    "route": 20425,
+                    "route_section_id": "20425#100",
+                    "sequence_number": 24,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:32:51",
+                    "exit_time": "07:33:25",
+                    "route": 20425,
+                    "route_section_id": "20425#102",
+                    "sequence_number": 25,
+                    "route_path": "standard",
+                    "section_requirement": "KIL_Halt"
+                },
+                {
+                    "entry_time": "07:33:25",
+                    "exit_time": "07:34:11",
+                    "route": 20425,
+                    "route_section_id": "20425#105",
+                    "sequence_number": 26,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:34:11",
+                    "exit_time": "07:34:20",
+                    "route": 20425,
+                    "route_section_id": "20425#110",
+                    "sequence_number": 27,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:34:20",
+                    "exit_time": "07:34:31",
+                    "route": 20425,
+                    "route_section_id": "20425#115",
+                    "sequence_number": 28,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:34:31",
+                    "exit_time": "07:34:56",
+                    "route": 20425,
+                    "route_section_id": "20425#120",
+                    "sequence_number": 29,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:34:56",
+                    "exit_time": "07:35:30",
+                    "route": 20425,
+                    "route_section_id": "20425#122",
+                    "sequence_number": 30,
+                    "route_path": "standard",
+                    "section_requirement": "RUES_Halt"
+                },
+                {
+                    "entry_time": "07:35:30",
+                    "exit_time": "07:36:39",
+                    "route": 20425,
+                    "route_section_id": "20425#125",
+                    "sequence_number": 31,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:36:39",
+                    "exit_time": "07:36:56",
+                    "route": 20425,
+                    "route_section_id": "20425#130",
+                    "sequence_number": 32,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:36:56",
+                    "exit_time": "07:37:03",
+                    "route": 20425,
+                    "route_section_id": "20425#135",
+                    "sequence_number": 33,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:37:03",
+                    "exit_time": "07:37:24",
+                    "route": 20425,
+                    "route_section_id": "20425#140",
+                    "sequence_number": 34,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:37:24",
+                    "exit_time": "07:39:00",
+                    "route": 20425,
+                    "route_section_id": "20425#142",
+                    "sequence_number": 35,
+                    "route_path": "standard",
+                    "section_requirement": "TW_Halt"
+                },
+                {
+                    "entry_time": "07:39:00",
+                    "exit_time": "07:39:51",
+                    "route": 20425,
+                    "route_section_id": "20425#145",
+                    "sequence_number": 36,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:39:51",
+                    "exit_time": "07:40:06",
+                    "route": 20425,
+                    "route_section_id": "20425#150",
+                    "sequence_number": 37,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:40:06",
+                    "exit_time": "07:40:44",
+                    "route": 20425,
+                    "route_section_id": "20425#155",
+                    "sequence_number": 38,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:40:44",
+                    "exit_time": "07:41:22",
+                    "route": 20425,
+                    "route_section_id": "20425#160",
+                    "sequence_number": 39,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:41:22",
+                    "exit_time": "07:41:32",
+                    "route": 20425,
+                    "route_section_id": "20425#162",
+                    "sequence_number": 40,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:41:32",
+                    "exit_time": "07:42:48",
+                    "route": 20425,
+                    "route_section_id": "20425#165",
+                    "sequence_number": 41,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:42:48",
+                    "exit_time": "07:43:10",
+                    "route": 20425,
+                    "route_section_id": "20425#170",
+                    "sequence_number": 42,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:43:10",
+                    "exit_time": "07:43:31",
+                    "route": 20425,
+                    "route_section_id": "20425#175",
+                    "sequence_number": 43,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:43:31",
+                    "exit_time": "07:43:41",
+                    "route": 20425,
+                    "route_section_id": "20425#177",
+                    "sequence_number": 44,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:43:41",
+                    "exit_time": "07:44:32",
+                    "route": 20425,
+                    "route_section_id": "20425#180",
+                    "sequence_number": 45,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:44:32",
+                    "exit_time": "07:44:41",
+                    "route": 20425,
+                    "route_section_id": "20425#185",
+                    "sequence_number": 46,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:44:41",
+                    "exit_time": "07:45:08",
+                    "route": 20425,
+                    "route_section_id": "20425#190",
+                    "sequence_number": 47,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:45:08",
+                    "exit_time": "07:45:51",
+                    "route": 20425,
+                    "route_section_id": "20425#195",
+                    "sequence_number": 48,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:45:51",
+                    "exit_time": "07:46:14",
+                    "route": 20425,
+                    "route_section_id": "20425#200",
+                    "sequence_number": 49,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:46:14",
+                    "exit_time": "07:46:28",
+                    "route": 20425,
+                    "route_section_id": "20425#205",
+                    "sequence_number": 50,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:46:28",
+                    "exit_time": "07:46:38",
+                    "route": 20425,
+                    "route_section_id": "20425#210",
+                    "sequence_number": 51,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:46:38",
+                    "exit_time": "07:47:00",
+                    "route": 20425,
+                    "route_section_id": "20425#215",
+                    "sequence_number": 52,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:47:00",
+                    "exit_time": "07:47:34",
+                    "route": 20425,
+                    "route_section_id": "20425#220",
+                    "sequence_number": 53,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:47:34",
+                    "exit_time": "07:48:11",
+                    "route": 20425,
+                    "route_section_id": "20425#225",
+                    "sequence_number": 54,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:48:11",
+                    "exit_time": "07:48:47",
+                    "route": 20425,
+                    "route_section_id": "20425#230",
+                    "sequence_number": 55,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:48:47",
+                    "exit_time": "07:49:01",
+                    "route": 20425,
+                    "route_section_id": "20425#235",
+                    "sequence_number": 56,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:49:01",
+                    "exit_time": "07:49:32",
+                    "route": 20425,
+                    "route_section_id": "20425#240",
+                    "sequence_number": 57,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:49:32",
+                    "exit_time": "07:49:41",
+                    "route": 20425,
+                    "route_section_id": "20425#245",
+                    "sequence_number": 58,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:49:41",
+                    "exit_time": "07:49:59",
+                    "route": 20425,
+                    "route_section_id": "20425#250",
+                    "sequence_number": 59,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:49:59",
+                    "exit_time": "07:50:26",
+                    "route": 20425,
+                    "route_section_id": "20425#255",
+                    "sequence_number": 60,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:50:26",
+                    "exit_time": "07:50:36",
+                    "route": 20425,
+                    "route_section_id": "20425#257",
+                    "sequence_number": 61,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:50:36",
+                    "exit_time": "07:51:40",
+                    "route": 20425,
+                    "route_section_id": "20425#260",
+                    "sequence_number": 62,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:51:40",
+                    "exit_time": "07:51:49",
+                    "route": 20425,
+                    "route_section_id": "20425#265",
+                    "sequence_number": 63,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:51:49",
+                    "exit_time": "07:52:05",
+                    "route": 20425,
+                    "route_section_id": "20425#270",
+                    "sequence_number": 64,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:52:05",
+                    "exit_time": "07:52:18",
+                    "route": 20425,
+                    "route_section_id": "20425#275",
+                    "sequence_number": 65,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:52:18",
+                    "exit_time": "07:52:41",
+                    "route": 20425,
+                    "route_section_id": "20425#280",
+                    "sequence_number": 66,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:52:41",
+                    "exit_time": "07:52:54",
+                    "route": 20425,
+                    "route_section_id": "20425#285",
+                    "sequence_number": 67,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:52:54",
+                    "exit_time": "07:53:21",
+                    "route": 20425,
+                    "route_section_id": "20425#290",
+                    "sequence_number": 68,
+                    "route_path": "standard",
+                    "section_requirement": null
+                },
+                {
+                    "entry_time": "07:53:21",
+                    "exit_time": "07:53:36",
+                    "route": 20425,
+                    "route_section_id": "20425#295",
+                    "sequence_number": 69,
+                    "route_path": "standard",
+                    "section_requirement": "ZG_Halt"
+                }
+            ]
+        }
+    ]
+}

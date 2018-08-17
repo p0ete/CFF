@@ -11,6 +11,7 @@ import itertools
 
 # FILE_NAME = "02_a_little_less_dummy.json"
 FILE_NAME = "01_dummy.json"
+currentdir = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))
 scenario = os.path.join(currentdir,'problem_instances',FILE_NAME)
 
 def best_solution(all_scores, combinations_matrix, problem_instance_label, problem_instance_hash, hash):
@@ -216,30 +217,6 @@ def compute_time(section_requirements, entry_time, section):
 
 	return time
 
-## Représente le réseau de noeuds sous la forme d'un dict
-def generate_paths_dict_old(scenario_content):
-	result = {}
-	for route in scenario_content["routes"]:
-		for path in route["route_paths"]:
-			for (i, route_section) in enumerate(path["route_sections"]):
-				from_node = from_node_id(path, route_section, i)[1:-1]
-				to_node = to_node_id(path, route_section, i)[1:-1]
-				sn = route_section['sequence_number']
-
-				if from_node not in result.keys():
-					result[from_node] = []
-
-				doublon = False
-				for k in range(len(result[from_node])):
-					if result[from_node][k] == {'node': to_node, 'seq_nb': sn}:
-						doublon = True
-				if not doublon:
-					result[from_node].append({'node': to_node, 'seq_nb': sn})
-
-				# print("Adding Edge from {} to {} with sequence number {}".format(from_node_id(path, route_section, i), to_node_id(path, route_section, i), sn))
-	# print(result)
-	return result
-
 def generate_paths_dict(route_paths):
 	result = {}
 	for path in route_paths:
@@ -293,7 +270,7 @@ def extract_section(selected_route, seq_nb):
 
 print("Je télécharge le scenario.")
 ## Upload le scenario
-# currentdir = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))
+# 
 
 # scenario = os.path.join(currentdir,'sample_files',"sample_scenario.json")
 with open(scenario) as fp:
@@ -468,5 +445,7 @@ print("==> The best score achieved is " + str(min(all_scores)))
 my_solution = best_solution(all_scores, combinations_matrix, problem_instance_label, problem_instance_hash, hash)
 
 
+file_solution = my_solution
+
 with open("./my_solution/" +FILE_NAME, 'w') as fp:
-	json.dump(my_solution, fp, indent=4)
+	json.dump(file_solution, fp, indent=4)
